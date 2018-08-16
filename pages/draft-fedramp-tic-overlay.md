@@ -34,7 +34,7 @@ This document is a synopsis of the background, purpose and public request for co
 
 This document provides context to the FedRAMP security controls as well as provides the baseline of controls the TIC capabilities, were mapped to.
 
-[TIC Reference Architecture v2.2](https://www.dhs.gov/sites/default/files/publications/TIC_Ref_Arch_v2.2_2017.pdf)
+[DHS TIC Reference Architecture](https://www.dhs.gov/trusted-internet-connections)
 
 This document provides context to the TIC Initiative as well as the specific TIC capabilities that have been mapped to the FedRAMP security controls baseline.
 
