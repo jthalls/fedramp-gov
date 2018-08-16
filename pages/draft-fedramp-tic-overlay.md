@@ -26,7 +26,7 @@ FedRAMP and TIC are seeking US Federal Departments and Agencies, CSPs. and other
 
 **Documents for Review**
 
-[Description FedRAMP-TIC Overlay](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/Description-FT-Overlay.docx)
+[Description FedRAMP-TIC Overlay]({{site.baseurl}}/assets/resources/documents/Description-FT-Overlay.docx)
 
 This document is a synopsis of the background, purpose and public request for comment of the DRAFT FedRAMP-TIC Overlay.
 
@@ -34,11 +34,11 @@ This document is a synopsis of the background, purpose and public request for co
 
 This document provides context to the FedRAMP security controls as well as provides the baseline of controls the TIC capabilities, were mapped to.
 
-[TIC Reference Architecture v2.0](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/TIC_Ref_Arch_v2-0_2013.pdf)
+[TIC Reference Architecture v2.2](https://www.dhs.gov/sites/default/files/publications/TIC_Ref_Arch_v2.2_2017.pdf)
 
 This document provides context to the TIC Initiative as well as the specific TIC capabilities that have been mapped to the FedRAMP security controls baseline.
 
-[FedRAMP-TIC Overlay Spreadsheet](https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/482/2015/04/FT-DRAFT-Overlay-FINAL.xls)
+[FedRAMP-TIC Overlay Spreadsheet]({{site.baseurl}}/assets/resources/documents/FT-DRAFT-Overlay-FINAL.xls)
 
 This document maps the the applicable TIC capabilities within the TIC Reference Architecture v2.0 to the FedRAMP Security Controls Baseline, currently for low and moderate impact levels. The spreadsheet has three tabs:
 
