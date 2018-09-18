@@ -394,6 +394,7 @@ ul.columns {
 			a {
 				text-decoration: none;
 				float: left;
+				width: 100%;
 				&:hover {
 					text-decoration: underline;
 				}
@@ -437,3 +438,25 @@ ul.columns {
 	max-width: 255px;
 }
 }
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+   .dashboard .inner ul {
+   		width: 100%;
+   		display: flex;
+   //		flex-wrap: wrap;
+   		justify-content: space-around;
+   		flex-flow: row wrap;
+   		li {
+   			border: 1px solid #cdcdcd;
+   			background: #fff;
+   			padding: 20px;
+   			margin: auto;
+   			margin-bottom: 20px;
+   			height: 155px;
+   			width: auto;
+   			max-width: 210px;
+   			list-style: none;
+   			text-align: center;
+   			}
+   			}
+   			}
